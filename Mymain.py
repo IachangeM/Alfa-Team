@@ -1,3 +1,8 @@
+"""
+@author:achange
+base on win10 + anaconda+python 3.6.x + pytorch 0.4.0
+"""
+
 # coding=utf-8
 import argparse
 import numpy
